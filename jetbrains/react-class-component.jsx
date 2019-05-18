@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 /**
- * ${ComponentName} Component.
+ * ${NAME} Component.
  */
-export default class ${ComponentName} extends Component {
+export default class ${NAME} extends Component {
   /**
-   * Creates an instance of ${ComponentName}.
+   * Creates an instance of ${NAME}.
    * @param {Object} props Component props
    */
   constructor(props) {
@@ -20,5 +20,5 @@ export default class ${ComponentName} extends Component {
     );
   }
 }
-${ComponentName}.propTypes = {
+${NAME}.propTypes = {
 };
