@@ -1,14 +1,14 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-const ${ComponentName} = ({}) => {
+function ${NAME} ({}) {
   return (
     
   );
 };
-${ComponentName}.displayName = '${ComponentName}';
-${ComponentName}.propTypes = {
+${NAME}.displayName = '${NAME}';
+${NAME}.propTypes = {
 };
 /**
- * ${ComponentName} Functional Component.
+ * ${NAME} Functional Component.
  */
-export default ${ComponentName};
+export default ${NAME};
